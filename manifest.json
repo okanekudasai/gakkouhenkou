@@ -1,0 +1,8 @@
+{
+    "name": "괄호변경",
+    "manifest_version": 3,
+    "version": "1.0",
+    "action": {
+        "default_popup": "popup.html"
+    }
+}
